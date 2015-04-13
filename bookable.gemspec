@@ -6,7 +6,7 @@ require 'bookable/version'
 Gem::Specification.new do |spec|
   spec.name          = "bookable"
   spec.version       = Bookable::VERSION
-  spec.authors       = ["Srikanth", "Margo", "Jon"]
+  spec.authors       = ["Srikanth", "Margo", "Jon", "Stacey Rees", "Richard Mitchell"]
   spec.email         = ["srikanth.kunkulagunta@gmail.com", "margo@margonline.co.uk", "chewymeister88@googlemail.com"]
   spec.description   = %q{a bookings reservation gem for rails 4.0}
   spec.summary       = %q{Bookable is a Rails 4.0 gem that enables you to add resource booking functionality to your Rails application. A resource can be anything that is bookable e.g. tennis court, football pitch, bowling lane, function room, conference room, office space. }
