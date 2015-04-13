@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'bookable/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bookable"
+  spec.name          = "my-bookable"
   spec.version       = Bookable::VERSION
   spec.authors       = ["Srikanth", "Margo", "Jon", "Stacey Rees", "Richard Mitchell"]
   spec.email         = ["srikanth.kunkulagunta@gmail.com", "margo@margonline.co.uk", "chewymeister88@googlemail.com"]
